@@ -1,0 +1,21 @@
+  settings.voltageC[0] = 4.224;
+  settings.voltageC[1] = 4.235;
+  settings.voltageC[2] = 4.229;
+  settings.voltageC[3] = 4.243;
+
+  settings.currentC[0] = 14.48;
+  settings.currentC[1] = 14.483;
+  settings.currentC[2] = 14.607;
+  settings.currentC[3] = 14.358;
+
+  settings.PILOT12V[0] = 4080;
+  settings.PILOT12V[1] = 4080;
+
+  settings.PILOT9V[0] = 3660;
+  settings.PILOT9V[1] = 3660;
+
+  settings.PILOT6V[0] = 3270;
+  settings.PILOT6V[1] = 3270;
+
+  settings.PILOT3V[0] = 3000;
+  settings.PILOT3V[1] = 3000;
