@@ -1,21 +1,24 @@
-  settings.voltageC[0] = 3.5;
-  settings.voltageC[1] = 3.555;
-  settings.voltageC[2] = 3.4;
-  settings.voltageC[3] = 3.45;
 
-  settings.currentC[0] = 14.2;
-  settings.currentC[1] = 14.39;
-  settings.currentC[2] = 14.3;
-  settings.currentC[3] = 14.39;
-    
-  settings.PILOT12V[0] = 4080;
-  settings.PILOT12V[1] = 4080;
+  settings->voltageC[0] = 3.5;
+  settings->voltageC[1] = 3.555;
+  settings->voltageC[2] = 3.4;
+  settings->voltageC[3] = 3.45;
 
-  settings.PILOT9V[0] = 3660;
-  settings.PILOT9V[1] = 3660;
+  settings->currentC[0] = 14.2;
+  settings->currentC[1] = 14.39;
+  settings->currentC[2] = 14.3;
+  settings->currentC[3] = 14.39;
+  
+  
 
-  settings.PILOT6V[0] = 3270;
-  settings.PILOT6V[1] = 3270;
+  settings->PILOT12V[0] = 4080;
+  settings->PILOT12V[1] = 4080;
 
-  settings.PILOT3V[0] = 3000;
-  settings.PILOT3V[1] = 3000;
+  settings->PILOT9V[0] = 3660;
+  settings->PILOT9V[1] = 3660;
+
+  settings->PILOT6V[0] = 3270;
+  settings->PILOT6V[1] = 3270;
+
+  settings->PILOT3V[0] = 2750;
+  settings->PILOT3V[1] = 2750;

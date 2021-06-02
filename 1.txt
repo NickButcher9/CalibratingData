@@ -1,21 +1,30 @@
-  settings.voltageC[0] = 3.45;
-  settings.voltageC[1] = 3.15;
-  settings.voltageC[2] = 6.36; ????????????????????
-  settings.voltageC[3] = 2.36;
+settings->voltageC[0] = 3.45;
+  settings->voltageC[1] = 3.15;
+  settings->voltageC[2] = 6.36;
+  settings->voltageC[3] = 2.36;
 
-  settings.currentC[0] = 14.55;
-  settings.currentC[1] = 14.66;
-  settings.currentC[2] = 14.7;
-  settings.currentC[3] = 14.5;
+  settings->currentC[0] = 14.55;
+  settings->currentC[1] = 14.66;
+  settings->currentC[2] = 14.7;
+  settings->currentC[3] = 14.5;
 
-  settings.PILOT12V[0] = 4080;
-  settings.PILOT12V[1] = 4080;
+  settings->voltageOffset[0] = 2078;
+  settings->voltageOffset[1] = 2078;
+  settings->voltageOffset[2] = 2078;
 
-  settings.PILOT9V[0] = 3660;
-  settings.PILOT9V[1] = 3660;
+  settings->currentOffset[0] = 2078;
+  settings->currentOffset[1] = 2078;
+  settings->currentOffset[2] = 2078;
+  settings->currentOffset[3] = 2078;
 
-  settings.PILOT6V[0] = 3270;
-  settings.PILOT6V[1] = 3298;
+  settings->PILOT12V[0] = 4080;
+  settings->PILOT12V[1] = 4080;
 
-  settings.PILOT3V[0] = 3000;
-  settings.PILOT3V[1] = 3000;
+  settings->PILOT9V[0] = 3660;
+  settings->PILOT9V[1] = 3660;
+
+  settings->PILOT6V[0] = 3270;
+  settings->PILOT6V[1] = 3298;
+
+  settings->PILOT3V[0] = 2750;
+  settings->PILOT3V[1] = 2750;
