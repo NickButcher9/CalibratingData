@@ -1,0 +1,31 @@
+settings->voltageC[0] = 4.185;
+    settings->voltageC[1] = 4.191;
+    settings->voltageC[2] = 4.171;
+    settings->voltageC[3] = 4.263;
+
+    settings->currentC[0] = 14.518;
+    settings->currentC[1] = 14.518;
+    settings->currentC[2] = 14.518;
+    settings->currentC[3] = 14.518;
+
+    settings->voltageOffset[0] = 2078;
+    settings->voltageOffset[1] = 2078;
+    settings->voltageOffset[2] = 2078;
+
+    settings->currentOffset[0] = 2078;
+    settings->currentOffset[1] = 2078;
+    settings->currentOffset[2] = 2078;
+    settings->currentOffset[3] = 2078;
+
+    settings->PILOT12V[0] = 4080;
+    settings->PILOT12V[1] = 4080;
+
+    settings->PILOT9V[0] = 3660;
+    settings->PILOT9V[1] = 3660;
+
+    settings->PILOT6V[0] = 3270;
+    settings->PILOT6V[1] = 3270;
+
+    settings->PILOT3V[0] = 2750;
+    settings->PILOT3V[1] = 2750;
+
