@@ -1,12 +1,12 @@
-  getSettings()->voltageC[0] = 4.201;
-      getSettings()->voltageC[1] = 4.181;
-      getSettings()->voltageC[2] = 4.140;
-      getSettings()->voltageC[3] = 4.173;
+getSettings()->voltageC[0] = 4.244;
+      getSettings()->voltageC[1] = 4.205;
+      getSettings()->voltageC[2] = 4.260;
+      getSettings()->voltageC[3] = 4.255;
 
-      getSettings()->currentC[0] = 14.672;
-      getSettings()->currentC[1] = 14.587;
-      getSettings()->currentC[2] = 14.587;
-      getSettings()->currentC[3] = 14.587;
+      getSettings()->currentC[0] = 14.526;
+      getSettings()->currentC[1] = 14.535;
+      getSettings()->currentC[2] = 14.654;
+      getSettings()->currentC[3] = 14.655;
 
       getSettings()->PILOT12V[0] = 4080;
       getSettings()->PILOT12V[1] = 4080;
@@ -21,3 +21,4 @@
       getSettings()->PILOT3V[1] = 2700;
 
       getSettings()->PILOT_MARGIN = 400;
+
