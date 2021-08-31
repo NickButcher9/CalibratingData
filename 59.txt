@@ -1,4 +1,4 @@
-getSettings()->voltageC[0] = 4.203;
+        getSettings()->voltageC[0] = 4.203;
         getSettings()->voltageC[1] = 4.227;
         getSettings()->voltageC[2] = 4.163;
         getSettings()->voltageC[3] = 4.244;
