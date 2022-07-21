@@ -22,7 +22,7 @@
     "PilotMargin":400,
     "CheckVoltage":[1],
     "CheckGFCI":[1],
-    "LocalAuth":[1],
+    "LocalAuth":[0],
     "CurrentLimit":[40,40],
     "ConnectorPresent":[true,true],
     "ConnectorType":[1,1]
