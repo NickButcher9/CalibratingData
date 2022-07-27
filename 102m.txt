@@ -32,7 +32,7 @@
 	],
 	"PilotMargin": 400,
 	"CheckVoltage": [
-		0
+		1
 	],
 	"CheckGFCI": [
 		1
