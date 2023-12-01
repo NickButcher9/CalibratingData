@@ -1,0 +1,36 @@
+{
+    "VoltageC":[
+        4.300,
+        4.305,
+        4.319,
+        4.300,
+        4.276,
+        4.300
+    ],
+    "CurrentC":[
+        6.962,
+        6.962,
+        6.962,
+        7.142,
+        7.142,
+        7.142
+    ],
+    "Pilot12v":[4080,4080],
+    "Pilot9v":[3660,3660],
+    "Pilot6v":[3270,3270],
+    "Pilot3v":[2700,2700],
+    "PilotMargin":400,
+    "CheckVoltage":[0],
+    "CheckGFCI":[1],
+    "LocalAuth":[1],
+    "CheckCurrent":[1],
+    "CheckContactor":[0],
+    "TryStartAgain":[1],
+    "ShimMode":2,
+    "ChargConnectDelay":2500,
+    "ChargReadyDelay":2500,
+    "ReadyConnectDelay":1250,
+    "CurrentLimit":[40,32],
+    "ConnectorPresent":[true,true],
+    "ConnectorType":[1,1]
+}
