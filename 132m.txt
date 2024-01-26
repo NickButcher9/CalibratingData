@@ -1,69 +1,36 @@
 {
-	"VoltageC": [
-        4.228,
-        4.219,
-        4.237,
-        4.228,
-        4.214,
-        4.214
-	],
-	"CurrentC": [
-        14.285,
-        14.285,
-        14.285,
-        14.545,
-        14.545,
-        14.545
-	],
-	"Pilot12v": [
-		4080,
-		4080
-	],
-	"Pilot9v": [
-		3660,
-		3660
-	],
-	"Pilot6v": [
-		3270,
-		3270
-	],
-	"Pilot3v": [
-		2700,
-		2700
-	],
-	"PilotMargin": 400,
-	"CheckVoltage": [
-		1
-	],
-	"CheckGFCI": [
-		1
-	],
-	"LocalAuth": [
-		0
-	],
-	"CheckCurrent": [
-		0
-	],
-	"CheckContactor": [
-		0
-	],
-	"TryStartAgain": [
-		1
-	],
-	"ShimMode": 2,
-	"ChargConnectDelay": 2500,
-	"ChargReadyDelay": 2500,
-	"ReadyConnectDelay": 1250,
-	"CurrentLimit": [
-		40,
-		32
-	],
-	"ConnectorPresent": [
-		true,
-		true
-	],
-	"ConnectorType": [
-		0,
-		1
-	]
+    "VoltageC":[
+        4.235,
+        4.230,
+        4.258,
+        4.235,
+        4.230,
+        4.230
+    ],
+    "CurrentC":[
+       14.285,
+       14.285,
+       14.285,
+       14.545,
+       14.545,
+       14.545
+    ],
+    "Pilot12v":[4080,4080],
+    "Pilot9v":[3660,3660],
+    "Pilot6v":[3270,3270],
+    "Pilot3v":[2700,2700],
+    "PilotMargin":400,
+    "CheckVoltage":[0],
+    "CheckGFCI":[1],
+    "LocalAuth":[1],
+    "CheckCurrent":[1],
+    "CheckContactor":[0],
+    "TryStartAgain":[1],
+    "ShimMode":2,
+    "ChargConnectDelay":2500,
+    "ChargReadyDelay":2500,
+    "ReadyConnectDelay":1250,
+    "CurrentLimit":[40,32],
+    "ConnectorPresent":[true,true],
+    "ConnectorType":[1,1]
 }
