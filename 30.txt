@@ -1,23 +1,69 @@
- getSettings()->voltageC[0] = 4.163;
-      getSettings()->voltageC[1] = 4.171;
-      getSettings()->voltageC[2] = 4.186;
-      getSettings()->voltageC[3] = 4.226;
-
-      getSettings()->currentC[0] = 14.518;
-      getSettings()->currentC[1] = 14.440;
-      getSettings()->currentC[2] = 14.563;
-      getSettings()->currentC[3] = 14.564;
-
-      getSettings()->PILOT12V[0] = 4080;
-      getSettings()->PILOT12V[1] = 4080;
-
-      getSettings()->PILOT9V[0] = 3660;
-      getSettings()->PILOT9V[1] = 3660;
-
-      getSettings()->PILOT6V[0] = 3254;
-      getSettings()->PILOT6V[1] = 3254;
-
-      getSettings()->PILOT3V[0] = 2700;
-      getSettings()->PILOT3V[1] = 2700;
-
-      getSettings()->PILOT_MARGIN = 400;
+{
+	"VoltageC": [
+        4.117,
+        4.112,
+        4.103,
+        4.112,
+        4.150,
+        4.178
+	],
+	"CurrentC": [
+        14.518,
+        14.518,
+        14.518,
+        14.440,
+        14.563,
+        14.564
+	],
+	"Pilot12v": [
+		4080,
+		4080
+	],
+	"Pilot9v": [
+		3660,
+		3660
+	],
+	"Pilot6v": [
+		3270,
+		3270
+	],
+	"Pilot3v": [
+		2700,
+		2700
+	],
+	"PilotMargin": 400,
+	"CheckVoltage": [
+		1
+	],
+	"CheckGFCI": [
+		1
+	],
+	"LocalAuth": [
+		0
+	],
+	"CheckCurrent": [
+		0
+	],
+	"CheckContactor": [
+		0
+	],
+	"TryStartAgain": [
+		1
+	],
+	"ShimMode": 2,
+	"ChargConnectDelay": 2500,
+	"ChargReadyDelay": 2500,
+	"ReadyConnectDelay": 1250,
+	"CurrentLimit": [
+		40,
+		32
+	],
+	"ConnectorPresent": [
+		true,
+		true
+	],
+	"ConnectorType": [
+		0,
+		1
+	]
+}
