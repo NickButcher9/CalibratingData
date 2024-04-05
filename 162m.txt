@@ -39,7 +39,7 @@
 		1
 	],
 	"LocalAuth": [
-		1
+		0
 	],
 	"CheckCurrent": [
 		0
@@ -63,7 +63,7 @@
 		true
 	],
 	"ConnectorType": [
-		1,
+		0,
 		1
 	]
 }
