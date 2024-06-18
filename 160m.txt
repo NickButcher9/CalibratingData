@@ -4,7 +4,7 @@
 		4.262,
 		4.257,
 		4.297,
-		3.261,
+		4.261,
 		4.270
 	],
 	"CurrentC": [
@@ -39,7 +39,7 @@
 		1
 	],
 	"LocalAuth": [
-		1
+		0
 	],
 	"CheckCurrent": [
 		0
@@ -55,7 +55,7 @@
 	"ChargReadyDelay": 2500,
 	"ReadyConnectDelay": 1250,
 	"CurrentLimit": [
-		40,
+		32,
 		32
 	],
 	"ConnectorPresent": [
