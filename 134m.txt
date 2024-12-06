@@ -1,10 +1,11 @@
-{ "VoltageC": [
+{
+	"VoltageC": [
 		4.278,
-                4.287,
+		4.287,
 		4.292,
-		4.278,
-		4.259,
-	        4.292
+		4.148,
+		4.143,
+		4.172
 	],
 	"CurrentC": [
 		14.391,
@@ -47,7 +48,7 @@
 		0
 	],
 	"TryStartAgain": [
-		1
+		0
 	],
 	"ShimMode": 2,
 	"ChargConnectDelay": 2500,
@@ -64,5 +65,8 @@
 	"ConnectorType": [
 		0,
 		1
-	]
+	],
+	"CheckCanType": 0,
+	"PreAuthorizingTime": 0,
+	"BetweenPreAuthorizingTime": 0
 }
