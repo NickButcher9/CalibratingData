@@ -62,7 +62,7 @@
 		true
 	],
 	"ConnectorType": [
-		0,
+		1,
 		1
 	]
 }
